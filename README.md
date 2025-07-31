@@ -1,6 +1,6 @@
 <!-- BANNER | One Piece Theme -->
 <p align="center">
-  <img src="assets/banner-onepiece.png" alt="Luffy overlooking the world - One Piece Banner" width="100%" />
+  <img src="assets/banner-onepiece.png" alt="One Piece Banner" width="100%" />
 </p>
 
 <!-- Animated Skill Badges & Tech Stack Icons -->
